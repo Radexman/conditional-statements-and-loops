@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 22px;
+}
+
+body {
+    min-height: 100vh;
+    background-color: black;
+    padding: 4em;
+    text-align: center;
+    color: #fff;
+}
+
+h1 {
+    font-size: 2rem;
+}
